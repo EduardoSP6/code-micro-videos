@@ -4,7 +4,7 @@
 
 ## Descrição
 
-Microsserviço de catálogo
+Microsserviço de catálogo - Curso FullCycle
 
 ## Rodar a aplicação
 
